@@ -1,0 +1,211 @@
+.bg-dark {
+  background-color: rgba(255, 0, 0, 0)!important;
+  padding-top: 20px;
+}
+
+.section2 h1{
+  padding: 30px;
+}
+
+/* .section2{
+  background-image: url(https://r4.wallpaperflare.com/wallpaper/842/423/658/goat-village-uttarakhand-india-wallpaper-17182e5c6f6a7a67b8b1e89dd55221aa.jpg);
+  background-position: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+} */
+
+#img1{
+  transition: transform .2s;
+  margin: auto;
+}
+#img1:hover {
+  transform: scale(1.06); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+
+.carousel-inner{
+  display: flex;
+  max-width: 1400px!important; 
+}
+
+.carousel-item{
+  margin: auto;
+  align-items: center;
+}
+
+.section2{
+  background-image: url("https://images.unsplash.com/photo-1623591999474-da7de6cdc29a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80");
+  background-position: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.section3 h1{
+  padding-top: 50px;
+}
+
+#carcon{
+  margin: auto;
+  align-items: center;
+  align-content: center;
+  color: red;
+}
+
+#carimg{
+  margin: auto;
+  align-content: center;
+}
+
+#demo1{
+  background-image: url(https://images.unsplash.com/photo-1613842375483-a6b8bdc01043?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80);
+  background-position: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#container{
+  width: 400px;
+}
+
+.section4 h1{
+  padding: 30px;
+  color: white;
+}
+
+.section4{
+  background-image: url(https://images.unsplash.com/photo-1600179446264-c3d50caba4b8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80);
+  background-position: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#posts{
+  margin: auto;
+  padding: 10px;
+  
+}
+
+#chardhamsec1 h4{
+  text-align: center;
+  padding: 15px;
+  color: black;
+  text-decoration: none;
+}
+
+#chardhamsec1 a:hover{  
+  text-decoration: none;
+}
+
+.section5{
+  background-image: url(https://images.unsplash.com/photo-1608942025318-1191eeade556?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1455&q=80);
+  background-position: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.section6{
+  background-image: url(https://images.unsplash.com/photo-1606722581293-628fa217a6f7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80);
+  background-position: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.section7 a{
+  color: white;
+  display: block;
+  text-decoration: none;
+}
+
+.section7 a:hover{
+  color: white;
+  
+}
+
+#panchkedarem{
+  margin: auto!important;
+  align-items: center!important;
+  align-content: center!important;
+  padding-left: 220px!important;
+  padding-bottom: 40px;
+}
+
+#panchbadriem{
+  margin: auto!important;
+  align-items: center!important;
+  align-content: center!important;
+  padding-left: 220px!important;
+  padding-bottom: 40px;
+}
+
+.map-container{
+  overflow:hidden;
+  padding-bottom:30.25%;
+  position:relative;
+  height:0
+}
+.map-container iframe{
+  left:0;
+  top:0;
+  height: 600px;
+  width: 600px;
+  position:absolute;
+  
+}
+
+/* adventure/html */
+.scale-me img{
+  transition: transform 700ms ease;
+  overflow: hidden;
+}
+
+.figure1{
+  width: 100%;
+  padding-top: 100%;
+  /* padding-top: 90%; */
+  position: relative;
+  display: block;
+  border: 1px solid #eeeeee70;
+  border-radius: 10px;
+}
+
+.figure1 img{
+  position: absolute;
+    top: 0;
+    left: 0;
+    width: 100% !important;
+    height: 100% !important;
+    border-radius: 10px;
+}
+
+.figure1 figcaption{
+  position: absolute;
+    bottom: 0;
+    width: 100%;
+    padding: 5px;
+    padding-top: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(0deg, grey, transparent);
+    font-family: "Assistant", sans-serif;
+    z-index: 1;
+    border-radius: 10px;
+    font-weight: 400;
+}
+
+#img2
+{
+  transition: transform 700ms ease;
+}
+#img2:hover {
+  transform: scale(1.10); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+
+/* adventure.html */
+
+
+/* tr1 */
+/* scrollbar */
+
+/* scrollbar */
+/* tr1 */
